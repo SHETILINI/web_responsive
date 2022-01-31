@@ -204,15 +204,17 @@ img[alt="demos"], img[alt="descuento"], img[alt="support"] {
     width: 37px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
+img[alt="Licencia Creative Commons"] {
+    height: 31px;
+    width: 88px;
+}
 img[alt="pagos"] {
     height: 23px;
     width: 33px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; 
 }
 img[alt="redes"]  {
     height: 19px;
     width: 20px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; 
 }
 
 img[alt="news"] {
