@@ -13,7 +13,7 @@ a {
     position: sticky;
     top: 0;
     height: 45px !important;
-    background-image: url("../img/nav2.PNG") !important;
+    background-image: url("../img/nav2.webp") !important;
     background-size: cover;
     padding-right: 0.2rem;
     background-repeat: round;
@@ -55,7 +55,7 @@ button:hover {
 }
 
 .formulario {
-    background-image: url("../img/fondo_form.jpg");
+    background-image: url("../img/fondo_form.webp");
     text-align: center;
     padding-top: 1.5rem;
     padding-bottom: 3rem;
@@ -78,7 +78,7 @@ input:focus {
 }
 
 header {
-    background-image: url("../img/fondosurf.jpg");
+    background-image: url("../img/fondosurf.webp");
     background-size: cover;
     height: 450px;
     width: auto;
